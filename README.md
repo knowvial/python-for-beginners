@@ -61,8 +61,7 @@ Practice coding with these free platforms:
 
 ## 🤔 Need Help?
 
-- ChatGPT or Cluade or any other LLM is your best friend
-- Join [Python Discord Community](https://python.discord.com)
+- Use ChatGPT or Cluade or any other LLM is your best friend
 
 ## 🎯 Learning Goals
 
