@@ -38,6 +38,14 @@ Practice coding with these free platforms:
   - Built-in code editor
   - Free certification
 
+3. Optional:[FreeCodeCamp Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+  - 300+ hour guided curriculum
+  - Interactive coding challenges
+  - Project-based learning
+  - Free verified certification
+  - Video tutorials included
+  - Built-in testing system
+
 ## 💡 Tips for Success
 
 1. **Code Daily**
